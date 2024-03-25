@@ -1,0 +1,4 @@
+package cl.charlie.pizzeria.persitence.entity;
+
+public class OrderItemId {
+}
